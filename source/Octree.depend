@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1601096089 source:c:\users\andrea\documents\octree\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"ROctree.h"
+
+1601096089 c:\users\andrea\documents\octree\include\roctree.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+

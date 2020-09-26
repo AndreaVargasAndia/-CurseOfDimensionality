@@ -1,4 +1,4 @@
-project("Course of Dimensionality")
+project("Octree")
 
 cmake_minimum_required(VERSION 3.15)
 
@@ -8,4 +8,4 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 include_directories($(CMAKE_CURRENT_SOURCE_DIR)/source)
 
-add_executable(curse_dimensionality source/main.cpp)
+add_executable(octree source/main.cpp)
